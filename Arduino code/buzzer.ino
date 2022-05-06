@@ -1,5 +1,3 @@
-Zet hier de arduino code
-
 //initialize digital pin for buzzer
 int BUZZER = 8;
 
